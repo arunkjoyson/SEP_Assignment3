@@ -1,4 +1,4 @@
-# Assignment 2: Requirements
+# Assignment 3:Actionable Items
 
 ### Student Details
 
@@ -7,15 +7,7 @@
 
 ---
 
-### Problem Statement:
-
-The AI developer client uses web scraping to collect training data for AI models. However, they face two main challenges:
-
-- Developers want to have categorized training questions that are separate from the answers because developers care about self-affirmation.
-- Developers want to know that the training data they are using is “balanced” (does not contain biases) because this will give them better AI models
-
----
-# Q) Analysis of current 2 requirements: 
+### List of Requirements
 
 ### Requirement 1: Categorized Training Questions & Answers
 
@@ -109,8 +101,6 @@ As an AI developer, I want the training data to be balanced and free from biases
 ## Outcome:  
 
 - A training dataset that minimizes biases and leads to improved AI model fairness and accuracy.
-
-# Q) define some Requirements which will include both functional and system requirements.
 
 ### Functional Requirement 1: Automated Web Scraping Module  
 
